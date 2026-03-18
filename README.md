@@ -1,7 +1,7 @@
 #airbnb.productclonebingo
 
 ##Progress Bingo Introduction
-![product clone bingo chart](images.productCloneBingo.png)
+![product clone bingo chart](images/productCloneBingo.png)
 
 ##Checklist done:
 - Wrote documentation or README notes
